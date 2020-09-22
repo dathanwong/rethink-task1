@@ -1,3 +1,6 @@
+# Notes
+Implemented text editors for all of the files and a save button as well as a markdown previewer. Using the react-markdown library to preview markdown https://www.npmjs.com/package/react-markdown.
+
 # Rethink Plaintext Editing
 
 This is our frontend coding challenge. It gives us a chance to see your abilities and how you approach problems. It is designed to give you unlimited creative freedom as you develop a solution. Feel free to use any packages/tools/etc. you'd like to edit text as elegantly as possible. There are a variety of different file types to experiment with as you see fit.
