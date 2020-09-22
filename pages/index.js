@@ -101,6 +101,8 @@ Previewer.propTypes = {
 const REGISTERED_EDITORS = {
   "text/plain": PlaintextEditor,
   "text/markdown": MarkdownEditor,
+  "text/javascript": PlaintextEditor,
+  "application/json": PlaintextEditor
 };
 
 function PlaintextFilesChallenge() {

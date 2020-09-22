@@ -29,7 +29,7 @@ function PlaintextEditor({ file, write }) {
 
   return (
     <div className={css.editor}>
-      <textarea rows="50" cols="70" value={value} onChange={(e) => setValue(e.target.value)}></textarea>
+      <textarea rows="30" cols="70" value={value} onChange={(e) => setValue(e.target.value)}></textarea>
       <button onClick={saveFile}>Save</button>
     </div>
   );
